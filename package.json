@@ -1,0 +1,16 @@
+{
+  "name": "wtsh",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Iogansen",
+  "license": "MIT",
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "0.4.6",
+    "webpack": "3.6.0"
+  }
+}
