@@ -1,3 +1,3 @@
-import { a } from './wrapper'
+import { a } from './lib'
 
 console.log(a)
