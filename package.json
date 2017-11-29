@@ -10,7 +10,7 @@
   "author": "Denis Iogansen",
   "license": "MIT",
   "devDependencies": {
-    "uglifyjs-webpack-plugin": "0.4.6",
-    "webpack": "3.6.0"
+    "uglifyjs-webpack-plugin": "1.1.1",
+    "webpack": "3.8.1"
   }
 }

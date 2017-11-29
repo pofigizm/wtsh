@@ -1,5 +1,3 @@
-import a from './module-a'
-import b from './module-b'
-import c from './module-c'
-
-export { a, b, c }
+export { default as a } from './module-a'
+export { default as b } from './module-b'
+export { default as c } from './module-c'
